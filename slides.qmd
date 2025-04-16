@@ -1384,10 +1384,10 @@ digraph G{
 
 . . .
 
-**Life course consequences**
+**The life course**
 
-* Formative years for legal cynicism
-* Long-term macrosocial consequences
+* When are formative years for legal cynicism?
+* What are long-term macrosocial consequences?
 
 
 
@@ -1433,8 +1433,4 @@ For more about the PHDCN+:
 | PHDCN\@fas.harvard.edu
 | <https://sites.harvard.edu/phdcn/>
 | [https://doi.org/10.1007/s40865-022-00203-0](https://sites.harvard.edu/phdcn/)
-
-# Appendix {background-image="img/benjamin-suter-mpLex62zVKQ-unsplash.jpg" background-opacity="0.4"}
-
-## {background-image="img/benjamin-suter-mpLex62zVKQ-unsplash.jpg" background-opacity="0.2"}
 
