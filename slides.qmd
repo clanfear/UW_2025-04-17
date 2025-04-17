@@ -133,19 +133,19 @@ Exaggerated in cities like Chicago, Philadelphia, Dallas
 
 . . .
 
-How have these trends in gun violence impacted direct exposure to gun violence?
+How have these trends in gun violence translated into personal exposure to gun violence?
 
 &nbsp;
 
 . . .
 
-What are the effects of these trends on health and behavior?
+What are the effects of these exposures on health and behavior?
 
 &nbsp;
 
 . . .
 
-**What is causing them in the first place?**
+**What is driving these trends in the first place?**
 
 
 # The {background-image="img/max-bender-yb7Yg3Rv7WA-unsplash.jpg" background-opacity="0.4"}
@@ -467,7 +467,7 @@ draw_curve <- function(covar, outcome = outcome, xaxis = "age", ylims = c(0,60),
   plot_annotation(theme = theme(plot.background = element_rect(fill = "transparent",colour = NA), text = element_text(family = plot_font,  color = "white")), caption = "Estimated cumulative incidence from non-parametric Turnbull MLE with survey and attrition weights")
 ```
 
-* Occurs often and at earlier age than being shot
+* Occurs more often and at earlier age than being shot
 * Similar race/ethnicity but not sex disparities
 
 ## {background-image="img/clay-banks-nsAn3nSW5T0-unsplash.jpg" background-opacity="0.2"}
@@ -487,12 +487,30 @@ draw_curve <- function(covar, outcome = outcome, xaxis = "age", ylims = c(0,60),
 
 # Gun Carrying {background-image="img/pedro-lastra-5Bv3EcijAl4-unsplash.jpg" background-opacity="0.4"}
 
-How does macro-context impact carrying across life course?
+How does macro-context impact carrying across the life course?
+
 
 ## {background-image="img/pedro-lastra-5Bv3EcijAl4-unsplash.jpg" background-opacity="0.2"}
 
-![](img/sa_title.png){fig-align="center"}
+![](img/sa_cropped.png){fig-align="center"}
 
+. . .
+
+* When does **onset** of concealed carry occur?
+
+. . .
+
+* Is there **continuity** in carry over the life course?
+
+   * Are adolescent carriers still carrying today?
+   * Does it differ for legal and illegal carry? 
+
+. . .
+
+* Does **exposure to gun violence** predict later carrying?
+
+   * Does it differ for adolescents and adults?
+   
 ## [Onset of concealed carry by age]{.r-fit-text}{background-image="img/pedro-lastra-5Bv3EcijAl4-unsplash.jpg" background-opacity="0.2"}
 
 ```{r}
@@ -797,6 +815,7 @@ cum_gun_use |>
 * $\frac{1}{3}$ of those ever carrying
 * Most age out
 * Associated with immediate **dangerous contexts**
+   * High risk of use
 
 :::
 
@@ -811,6 +830,7 @@ cum_gun_use |>
 * $\frac{2}{3}$ of those ever carrying
 * Most still carrying today
 * Associated with **insecurity** and **diffuse threats**
+   * Low but cumulative use risk
 
 :::
 
@@ -913,6 +933,9 @@ Guns also:
 
 :::
 
+## {background-image="img/benjamin-suter-mlOvsx4xdaA-unsplash.jpg" background-opacity="0.2"}
+
+![](img/trust-police_sampson.png)
 
 ## [Legal cynicism, guns, and emergence]{.r-fit-text}{background-image="img/benjamin-suter-mlOvsx4xdaA-unsplash.jpg" background-opacity="0.2"}
 
@@ -1206,7 +1229,7 @@ digraph G{
 
 ::: {style="text-align: center;"}
 
-*Classic concerns of demography... mostly*
+*Classic concerns of demography and life course research... mostly*
 
 :::
 
@@ -1373,7 +1396,7 @@ digraph G{
 **Expanding cynicism**
 
 * From local to national focus
-* Alienation without disadvantage
+* Alienation without concentrated disadvantage
 
 . . .
 
@@ -1387,7 +1410,7 @@ digraph G{
 **The life course**
 
 * When are formative years for legal cynicism?
-* What are long-term macrosocial consequences?
+* What are the long-term macrosocial consequences?
 
 
 
@@ -1398,7 +1421,7 @@ digraph G{
 * How do we test empirically?
 
   * Alternate explanations?
-  * Integrating life course with neighborhood effects
+  * Integrating life course with changing neighborhood effects
 
 . . .
 
